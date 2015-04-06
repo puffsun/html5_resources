@@ -16,3 +16,16 @@
 * [Device-Agnostic Approach To Responsive Web Design](http://www.smashingmagazine.com/2012/03/22/device-agnostic-approach-to-responsive-web-design/)
 * [Adaptive Images Deliver small images to small devices](http://adaptive-images.com/)
 
+### Developer guide
+* [MDN - Web developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
+
+### Web layout
+* [Learn you a FlexBox](http://www.the-haystack.com/2012/01/04/learn-you-a-flexbox/)
+* [Using multi-column layouts](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_multi-column_layouts)
+
+### JavaScript
+* [Asynchronous and deferred JavaScript execution explained](http://peter.sh/experiments/asynchronous-and-deferred-javascript-execution-explained/)
+* [JavaScript Events And Responding To The User](http://coding.smashingmagazine.com/2012/08/17/javascript-events-responding-user/)
+* [Easy Script Loading with yepnope.js](http://code.tutsplus.com/tutorials/easy-script-loading-with-yepnope-js--net-19002)
+* [HTML5 Cross Browser Polyfills - Modernizr Wiki](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
+* [Tutorial: HTML Templates with Mustache.js](http://coenraets.org/blog/2011/12/tutorial-html-templates-with-mustache-js/)
